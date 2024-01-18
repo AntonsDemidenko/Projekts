@@ -1,0 +1,3 @@
+Ši kods izstrādāts lai programma pati atvera saiti MAXIMA veikala (maxima.lv) , nospiez pogu atlaut visus sikdatnes , nospiez pogu "piedavajumi" un pogu "visi piedavajumi". Lai to izstadat ir nepieciesami stradat ar bibliotekam selenium un time. Selenium dod iespeju automatiski stradat ar saiti un spiez pogas lai tiktu lidz vajadzigaj informacijai, time dod iespeju izdarit pauze lai butu laiks ieladet visu informaciju.
+Talak kods atver saiti ar piedavajumiem un izvada informaviju par akcijas produktu , to cenu/kg un nosaukumu tabulas veida.
+Lai kods strada es izmantoju bibliotekas bs4, request un tabulate.  request un bs4 vajadzigs lai aiziet uz saiti un nolasit informaciju un izveidot to terminala , tabulate dod iespeju izdarit to tabulas veida.
